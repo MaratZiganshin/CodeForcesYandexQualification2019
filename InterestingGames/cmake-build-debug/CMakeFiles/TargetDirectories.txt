@@ -1,0 +1,3 @@
+C:/GitHub/CodeForcesYandexQualification2019/InterestingGames/cmake-build-debug/CMakeFiles/InterestingGames.dir
+C:/GitHub/CodeForcesYandexQualification2019/InterestingGames/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GitHub/CodeForcesYandexQualification2019/InterestingGames/cmake-build-debug/CMakeFiles/rebuild_cache.dir
