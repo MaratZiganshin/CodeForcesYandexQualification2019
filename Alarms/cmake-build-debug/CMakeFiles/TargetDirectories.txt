@@ -1,0 +1,3 @@
+C:/GitHub/CodeForcesYandexQualification2019/Alarms/cmake-build-debug/CMakeFiles/Alarms.dir
+C:/GitHub/CodeForcesYandexQualification2019/Alarms/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GitHub/CodeForcesYandexQualification2019/Alarms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
